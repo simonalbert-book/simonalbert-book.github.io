@@ -1,25 +1,25 @@
-copyright = "© Your Name"
+copyright = "© Simon Albert"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Berlin"
-timeout = "120s"
-title = "Gallery"
+timeout = "300s"
+title = "Book"
 
 [params]
   defaultTheme = "dark"
-  description = "Example site for hugo-theme-gallery"
-  title = "My Gallery"
+  description = "The Book of Simon Albert"
+  title = "My Book"
   [params.author]
-    email = "user@example.com"
-    name = "Your Name"
+    email = "simonalbert@ik.me"
+    name = "Simon Albert"
   [params.socialIcons]
-    facebook = "https://www.facebook.com/"
-    instagram = "https://www.instagram.com/"
-    github = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    youtube = "https://www.youtube.com/"
-    email = "mailto:user@example.com"
+    #facebook = "https://www.facebook.com/"
+    instagram = "https://www.instagram.com/simondesign.obj/"
+    #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #youtube = "https://www.youtube.com/"
+    email = "mailto:simonalbert@ik.me"
     #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
