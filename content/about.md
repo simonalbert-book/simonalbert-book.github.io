@@ -4,7 +4,7 @@ rss_ignore: true
 title: About
 menu:
   main:
-    weight: 0
+    weight: -1
 ---
 
 I am Simon Albert, a design student.
