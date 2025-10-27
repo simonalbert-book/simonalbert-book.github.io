@@ -1,0 +1,5 @@
+theme = 'gallery'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
