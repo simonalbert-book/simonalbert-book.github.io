@@ -1,8 +1,7 @@
 ---
-description: This is the "Animals" album. It has two sub-albums.
-keywords: [Animals, Photos, Cats, Dogs]
-title: Animals
-weight: 1
+description: Description of various techinques used TODO.
+title: Drawings
+weight: 2
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:

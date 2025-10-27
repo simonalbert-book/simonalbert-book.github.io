@@ -4,7 +4,7 @@ rss_ignore: true
 title: About
 menu:
   main:
-    weight: 90
+    weight: 0
 ---
 
-This is a demonstration site for the Hugo Gallery theme.
+I am Simon Albert, a design student.
