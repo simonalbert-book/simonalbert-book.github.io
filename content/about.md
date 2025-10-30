@@ -7,4 +7,6 @@ menu:
     weight: -1
 ---
 
-I am Simon Albert, a design student.
+Hello, my name is Simon, a product design student.
+
+I'm currently studying for a DNMADe in Object Design in Argentan, France.
