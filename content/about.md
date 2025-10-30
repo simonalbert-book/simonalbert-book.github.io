@@ -9,4 +9,4 @@ menu:
 
 Hello, my name is Simon, a product design student.
 
-I'm currently studying for a DNMADe in Object Design in Argentan, France.
+I'm currently studying for a DNMADe in Object Design in Argentan, in France.
