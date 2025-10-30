@@ -5,7 +5,7 @@ weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: rat.jpg
+  - src: lamp.jpg
     params:
       cover: true
 ---
