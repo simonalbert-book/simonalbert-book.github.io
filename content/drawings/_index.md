@@ -1,5 +1,5 @@
 ---
-description: Description of various techinques used TODO.
+description: Some drawings with various technics.
 title: Drawings
 weight: 2
 menus: "main"
