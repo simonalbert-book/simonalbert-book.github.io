@@ -1,5 +1,5 @@
 ---
-description: Some pojects I made.
+description: Some projects I made.
 title: Objects
 weight: 1
 menus: "main"
